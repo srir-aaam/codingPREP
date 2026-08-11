@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srir-aaam/codingPREP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/srir-aaam/codingPREP/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/srir-aaam/codingPREP/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
